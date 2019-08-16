@@ -4,4 +4,4 @@ A friend and I were reminiscing about earlier days of coding and they asked if I
 This is my FizzBuzz.  It is also a teaching tool I have used to introduce folks to python and programming.
 
 ----
-@author W.Richards, August 2019.
+- August 2019.
