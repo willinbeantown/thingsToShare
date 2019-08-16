@@ -13,7 +13,6 @@ def multiples():
         y.append(c*i)
     return x, y
 
-
 # Print 'Fizz', 'Buzz', 'Fizzbuzz', or number from value in list.
 def fizzbuzz(num):
     # Print 'fizz' if multiple of 3 and not 5
